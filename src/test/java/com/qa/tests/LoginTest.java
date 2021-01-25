@@ -9,5 +9,11 @@ public class LoginTest {
 	{
 		System.out.println("login Test");
 	}
+	
+	@Test
+	public void checkGit()
+	{
+		System.out.println("checking in for git check");
+	}
 
 }
